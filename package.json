@@ -1,0 +1,30 @@
+{
+  "name": "zyat",
+  "version": "1.0.0",
+  "description": "A Node.js module for calculating properties related to the Moon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zyatmail/zyat"
+  },
+  "dependencies": {
+	  "sharondavis": "1.0.0",
+"marikovmailbory": "1.0.0",
+"grommailpasha": "1.0.0",
+"anthonyjones-mode": "1.0.0",
+"morozz": "1.0.0",
+"solodop-sdk": "1.0.0",
+"christopherlee": "1.0.0",
+"marinahramtsova": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyatmail/zyat/issues"
+  },
+  "homepage": "https://github.com/zyatmail/zyat#readme"
+}
